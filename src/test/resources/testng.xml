@@ -1,0 +1,7 @@
+<suite name="REST Assured test examples">
+    <test name="All">
+        <packages>
+            <package name="prestassured.framework.ratelimit.*"/>
+        </packages>
+    </test>
+</suite>
